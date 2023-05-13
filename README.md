@@ -1,1 +1,1 @@
-Simple repository that connectes mongodb database to the code using express js.
+Simple repository that connectes mongodb database to the code using EXPRESS JS.
